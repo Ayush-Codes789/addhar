@@ -33,9 +33,9 @@ Canonicalization: Standardizing state names (e.g., merging "west bengal" and "WE
 Aggregation: Independent grouping by Year/Month for time-series consistency.
 
 Stress Scoring: Calculated as:
-$$\text{Stress Score} = \frac{\text{High Load Ratio}}{\ln(\text{Area in } km^2)}
+                              stress score=High Load Ratio/ln(Area in Km**2)
 
-$$This identifies small, high-demand UTs like Delhi as primary infrastructure risks.
+This identifies small, high-demand UTs like Delhi as primary infrastructure risks.
 
 📈 Top Insights
  
